@@ -9,7 +9,10 @@ Maintained by [PromiseClick](https://www.promiseclick.com). Browse the full libr
 ### Prompt packs
 - **[Founder Hooks Prompt Pack](prompts/founder-hooks.md)** - a master AI prompt plus 12 proven hook formulas (each with an example) to write LinkedIn posts that stop the scroll.
 
-_On the way: positioning templates, the content-to-pipeline framework, warm outreach templates, and Claude skills._
+### Claude skills
+- **[LinkedIn DM Writer](claude-skills/linkedin-dm-writer/SKILL.md)** - an installable Claude skill that writes warm, personalized LinkedIn DMs and follow-up sequences (no pitch, high reply rate). Add it to Claude once and draft outreach in seconds.
+
+_On the way: positioning templates, the content-to-pipeline framework, and warm outreach templates._
 
 ## How to use
 
