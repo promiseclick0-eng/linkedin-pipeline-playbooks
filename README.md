@@ -10,7 +10,15 @@ Maintained by [PromiseClick](https://www.promiseclick.com). Browse the full libr
 - **[Founder Hooks Prompt Pack](prompts/founder-hooks.md)** - a master AI prompt plus 12 proven hook formulas (each with an example) to write LinkedIn posts that stop the scroll.
 
 ### Claude skills
-- **[LinkedIn DM Writer](claude-skills/linkedin-dm-writer/SKILL.md)** - an installable Claude skill that writes warm, personalized LinkedIn DMs and follow-up sequences (no pitch, high reply rate). Add it to Claude once and draft outreach in seconds.
+
+Installable skills that teach Claude to do one job well, every time. Add a folder to Claude and it activates when you need it.
+
+- **[LinkedIn DM Writer](claude-skills/linkedin-dm-writer/SKILL.md)** - warm, personalized LinkedIn DMs and follow-up sequences (no pitch, high reply rate).
+- **[LinkedIn Lead Scorer](claude-skills/linkedin-lead-scorer/SKILL.md)** - scores prospects 0-100 against your ICP and flags disqualifiers with reasons.
+- **[LinkedIn Positioning Coach](claude-skills/linkedin-positioning-coach/SKILL.md)** - builds and pressure-tests your positioning one-pager and one-liner.
+- **[LinkedIn Content Engine](claude-skills/linkedin-content-engine/SKILL.md)** - turns an idea into a founder-led post: hook, body, and soft CTA, in your voice.
+- **[LinkedIn ICP Finder](claude-skills/linkedin-icp-finder/SKILL.md)** - defines your ICP and outputs Sales Navigator filters and Boolean X-ray search strings.
+- **[LinkedIn Profile Optimizer](claude-skills/linkedin-profile-optimizer/SKILL.md)** - audits your profile against a conversion checklist and rewrites the weak sections.
 
 _On the way: positioning templates, the content-to-pipeline framework, and warm outreach templates._
 
