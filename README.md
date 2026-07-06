@@ -9,6 +9,9 @@ Maintained by [PromiseClick](https://www.promiseclick.com). Browse the full libr
 ### Prompt packs
 - **[Founder Hooks Prompt Pack](prompts/founder-hooks.md)** - a master AI prompt plus 12 proven hook formulas (each with an example) to write LinkedIn posts that stop the scroll.
 
+### Templates
+- **[LinkedIn Post Templates (Swipe File)](templates/linkedin-post-templates.md)** - 12 proven post structures, each a fill-in-the-blank skeleton with an example. Copy, swap in your specifics, post.
+
 ### Claude skills
 
 Installable skills that teach Claude to do one job well, every time. Add a folder to Claude and it activates when you need it.
@@ -20,7 +23,7 @@ Installable skills that teach Claude to do one job well, every time. Add a folde
 - **[LinkedIn ICP Finder](claude-skills/linkedin-icp-finder/SKILL.md)** - defines your ICP and outputs Sales Navigator filters and Boolean X-ray search strings.
 - **[LinkedIn Profile Optimizer](claude-skills/linkedin-profile-optimizer/SKILL.md)** - audits your profile against a conversion checklist and rewrites the weak sections.
 
-_On the way: positioning templates, the content-to-pipeline framework, and warm outreach templates._
+_More on the way: positioning and outreach templates, and the content-to-pipeline framework._
 
 ## How to use
 
