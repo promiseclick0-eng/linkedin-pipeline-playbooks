@@ -1,6 +1,6 @@
 # LinkedIn Post Templates (Swipe File)
 
-Twelve proven LinkedIn post structures for B2B and SaaS founders. Each is a fill-in-the-blank skeleton with an example. Copy one, swap in your specifics, and post. Written for your buyer, not the algorithm.
+Twenty-four proven LinkedIn post structures for B2B and SaaS founders. Each is a fill-in-the-blank skeleton with an example. Copy one, swap in your specifics, and post. Written for your buyer, not the algorithm.
 
 Made by [PromiseClick](https://www.promiseclick.com). More playbooks: [promiseclick.com/resources/playbooks](https://www.promiseclick.com/resources/playbooks).
 
@@ -23,7 +23,7 @@ Most people do the opposite. That is the opportunity.
 
 What is your take?
 ```
-**Example hook:** "Posting daily is killing your reach. Post 3 times a week and reply to every comment instead."
+**Example hook:** Posting daily is killing your reach. Post 3 times a week and reply to every comment instead.
 
 ## 2. The Personal Story to Lesson
 **Use when:** you have a moment that taught you something.
@@ -38,7 +38,7 @@ Here is what it taught me:
 
 [The lesson, one line, that applies to your reader.]
 ```
-**Example hook:** "Three years ago I lost our biggest client on a Friday afternoon."
+**Example hook:** Three years ago I lost our biggest client on a Friday afternoon.
 
 ## 3. The Listicle
 **Use when:** you can break a topic into clear points.
@@ -48,13 +48,12 @@ Here is what it taught me:
 1. [Point] - [one line why]
 2. [Point] - [one line why]
 3. [Point] - [one line why]
-...
 
 Number [k] is the one most people skip.
 
 Which would you add?
 ```
-**Example hook:** "5 LinkedIn habits that book calls. Most founders skip number 3."
+**Example hook:** 5 LinkedIn habits that book calls. Most founders skip number 3.
 
 ## 4. The How-To
 **Use when:** you can teach a repeatable process.
@@ -69,7 +68,7 @@ Step 3: [action]
 
 Save this for the next time you [situation].
 ```
-**Example hook:** "How to write a LinkedIn post in 15 minutes (without staring at a blank page)."
+**Example hook:** How to write a LinkedIn post in 15 minutes without staring at a blank page.
 
 ## 5. The Client Result
 **Use when:** you have a real outcome to share (get permission first).
@@ -84,10 +83,10 @@ Here is what we changed:
 
 The takeaway: [one-line principle your reader can apply].
 ```
-**Example hook:** "We took a founder from 200 to 100k views a post in 90 days. Here is what changed."
+**Example hook:** We took a founder from 200 to 100k views a post in 90 days. Here is what changed.
 
 ## 6. The Mistake I Made
-**Use when:** you can turn a failure into a lesson (vulnerability builds trust).
+**Use when:** you can turn a failure into a lesson.
 ```
 I [wasted time or money] doing [thing].
 
@@ -97,9 +96,9 @@ What actually happened: [the result].
 
 If I started over, I would [the better approach].
 
-[Question to the reader who might be making the same mistake.]
+[Question to the reader making the same mistake.]
 ```
-**Example hook:** "I spent a year posting tips nobody asked for."
+**Example hook:** I spent a year posting tips nobody asked for.
 
 ## 7. The Myth vs Truth
 **Use when:** a common belief in your space is wrong.
@@ -114,7 +113,7 @@ And here is what to do instead: [one line].
 
 [Question.]
 ```
-**Example hook:** "Myth: more followers means more pipeline. Truth: the wrong followers cost you reach."
+**Example hook:** Myth: more followers means more pipeline. Truth: the wrong followers cost you reach.
 
 ## 8. The Before / After
 **Use when:** you can show a clear transformation.
@@ -127,7 +126,7 @@ The one thing that changed: [the lever].
 
 [One line on how the reader can do the same.]
 ```
-**Example hook:** "Before: I posted and got 3 likes. After: prospects DM me first. One thing changed."
+**Example hook:** Before: I posted and got 3 likes. After: prospects DM me first. One thing changed.
 
 ## 9. The Framework Breakdown
 **Use when:** you have a repeatable model to share.
@@ -142,7 +141,7 @@ Here is the framework we use to fix it:
 
 Steal it. It works.
 ```
-**Example hook:** "Most founders post and pray. Here is the framework that turns posts into pipeline."
+**Example hook:** Most founders post and pray. Here is the framework that turns posts into pipeline.
 
 ## 10. The Engagement Question
 **Use when:** you want reach and comments (keep it genuine, not bait).
@@ -155,7 +154,7 @@ I keep going back and forth on this.
 
 Curious where you land, and why.
 ```
-**Example hook:** "Cold outreach still works in 2026. But only if you do one thing first."
+**Example hook:** Cold outreach still works in 2026. But only if you do one thing first.
 
 ## 11. The Unpopular Observation
 **Use when:** you have a sharp, true observation others avoid saying.
@@ -168,7 +167,7 @@ Nobody wants to say this, but:
 
 The founders who accept this [get the outcome]. The rest [stay stuck].
 ```
-**Example hook:** "Nobody wants to say this, but most LinkedIn content is written for other creators, not buyers."
+**Example hook:** Nobody wants to say this, but most LinkedIn content is written for other creators, not buyers.
 
 ## 12. The Announcement
 **Use when:** launching something (lead with the why, not the what).
@@ -183,7 +182,201 @@ It [does the core outcome] so you can [benefit].
 
 [Clear next step. Put the link in the first comment.]
 ```
-**Example hook:** "Founders kept asking us for our DM system. So we open-sourced it."
+**Example hook:** Founders kept asking us for our DM system. So we open-sourced it.
+
+## 13. Do This, Not That
+**Use when:** you can contrast a wrong approach with the right one.
+```
+[ICP], stop [common wrong action].
+
+Do this instead:
+
+Don't: [wrong move]
+Do: [right move]
+
+Don't: [wrong move]
+Do: [right move]
+
+The difference is [one-line principle].
+```
+**Example hook:** Founders, stop pitching in the first DM. Do this instead.
+
+## 14. The Numbers Breakdown
+**Use when:** you have data or a count to share.
+```
+I looked at [N] [things].
+
+Here is what the data showed:
+
+- [Stat 1] - [what it means]
+- [Stat 2] - [what it means]
+- [Stat 3] - [what it means]
+
+The takeaway: [one line].
+
+[Question.]
+```
+**Example hook:** I looked at 1,600 LinkedIn posts. The pattern was not what I expected.
+
+## 15. Behind the Curtain
+**Use when:** you want to build trust by showing your real process.
+```
+Here is exactly how we [do the thing], start to finish:
+
+1. [Step]
+2. [Step]
+3. [Step]
+
+No secret sauce. Just [the real principle].
+
+Steal the process.
+```
+**Example hook:** Here is exactly how we book 10 calls a month from LinkedIn. No ads.
+
+## 16. The Objection Flip
+**Use when:** your buyer has a common objection you can reframe.
+```
+"[Common objection]."
+
+I hear this a lot.
+
+Here is the reframe:
+
+[Why the objection is understandable but wrong, 2 to 3 lines.]
+
+[What is actually true.]
+
+[One line that lands.]
+```
+**Example hook:** "I don't have time to post on LinkedIn." I hear this a lot. Here is the reframe.
+
+## 17. The Prediction
+**Use when:** you have a point of view on where things are going.
+```
+In [timeframe], [prediction about your space].
+
+Here is why:
+
+[Reason 1]
+[Reason 2]
+
+The [ICP] who [prepare now] will [win]. The rest will [fall behind].
+
+Agree or disagree?
+```
+**Example hook:** In 12 months, buyers will find you through AI search, not Google. Here is why.
+
+## 18. The Most-Asked Question
+**Use when:** you get the same question often.
+```
+The question I get most from [ICP]:
+
+"[The question]"
+
+Short answer: [one line].
+
+Longer answer:
+
+[2 to 4 short lines with the real substance.]
+
+Hope that helps. Ask me anything below.
+```
+**Example hook:** The question I get most from founders: how often should I post?
+
+## 19. The Milestone
+**Use when:** you hit a number and can share the lessons, not just the flex.
+```
+We just [hit milestone].
+
+I could list what we did. Instead, here is what actually mattered:
+
+- [Lesson 1]
+- [Lesson 2]
+- [Lesson 3]
+
+[One honest line about what was hard.]
+
+To everyone who [helped]: thank you.
+```
+**Example hook:** We just crossed [X]. Here is what actually got us here, not what you would guess.
+
+## 20. The Two Types
+**Use when:** you can split your audience into two camps to make a point.
+```
+There are two types of [ICP]:
+
+Type 1: [the losing behavior].
+Type 2: [the winning behavior].
+
+Type 1 [outcome].
+Type 2 [outcome].
+
+The gap is not [what people assume]. It is [the real difference].
+
+Which one are you?
+```
+**Example hook:** There are two types of founders on LinkedIn. Only one builds pipeline.
+
+## 21. What Nobody Tells You
+**Use when:** you have insider truth beginners do not hear.
+```
+What nobody tells you about [topic]:
+
+[The uncomfortable truth, one line.]
+
+Everyone talks about [the surface thing]. Almost nobody talks about [the real thing].
+
+Here is what actually moves the needle:
+
+[The real advice, 2 to 3 lines.]
+```
+**Example hook:** What nobody tells you about LinkedIn growth: reach is the easy part.
+
+## 22. The Teardown
+**Use when:** you can analyze an example and extract the lessons.
+```
+[This post / profile / campaign] did [impressive result].
+
+Here is why it worked:
+
+1. [Element] - [why]
+2. [Element] - [why]
+3. [Element] - [why]
+
+Copy the structure, not the words.
+```
+**Example hook:** This founder's post got 400 comments. Here is exactly why it worked.
+
+## 23. The Honest Rant
+**Use when:** something in your space frustrates you (channel it into a point).
+```
+I am tired of [the thing everyone does].
+
+[Why it is a problem, 2 to 3 short lines.]
+
+Here is what we should do instead:
+
+[The better way.]
+
+Rant over. But I mean it.
+```
+**Example hook:** I am tired of LinkedIn gurus telling founders to just post more.
+
+## 24. Save This
+**Use when:** you want a high-utility, saveable reference post.
+```
+Save this if you [situation].
+
+[N] [things] to [outcome]:
+
+- [Item]
+- [Item]
+- [Item]
+- [Item]
+
+Bookmark it. You will need it next time you [situation].
+```
+**Example hook:** Save this if you struggle to write LinkedIn hooks.
 
 ---
 
