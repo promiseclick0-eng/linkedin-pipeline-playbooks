@@ -10,7 +10,7 @@ Maintained by [PromiseClick](https://www.promiseclick.com). Browse the full libr
 - **[Founder Hooks Prompt Pack](prompts/founder-hooks.md)** - a master AI prompt plus 12 proven hook formulas (each with an example) to write LinkedIn posts that stop the scroll.
 
 ### Templates
-- **[LinkedIn Post Templates (Swipe File)](templates/linkedin-post-templates.md)** - 12 proven post structures, each a fill-in-the-blank skeleton with an example. Copy, swap in your specifics, post.
+- **[LinkedIn Post Templates (Swipe File)](templates/linkedin-post-templates.md)** - 24 proven post structures, each a fill-in-the-blank skeleton with an example. Copy, swap in your specifics, post.
 
 ### Claude skills
 
