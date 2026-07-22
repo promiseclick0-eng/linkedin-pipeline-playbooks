@@ -12,6 +12,9 @@ Maintained by [PromiseClick](https://www.promiseclick.com). Browse the full libr
 ### Templates
 - **[LinkedIn Post Templates (Swipe File)](templates/linkedin-post-templates.md)** - 24 proven post structures, each a fill-in-the-blank skeleton with an example. Copy, swap in your specifics, post.
 
+### References
+- **[LinkedIn Character Limits and Formatter](references/linkedin-character-limits.md)** - current post, article, connection-note, and InMail limits with source links, verification notes, and a practical formatting workflow.
+
 ### Claude skills
 
 Installable skills that teach Claude to do one job well, every time. Add a folder to Claude and it activates when you need it.
@@ -22,8 +25,14 @@ Installable skills that teach Claude to do one job well, every time. Add a folde
 - **[LinkedIn Content Engine](claude-skills/linkedin-content-engine/SKILL.md)** - turns an idea into a founder-led post: hook, body, and soft CTA, in your voice.
 - **[LinkedIn ICP Finder](claude-skills/linkedin-icp-finder/SKILL.md)** - defines your ICP and outputs Sales Navigator filters and Boolean X-ray search strings.
 - **[LinkedIn Profile Optimizer](claude-skills/linkedin-profile-optimizer/SKILL.md)** - audits your profile against a conversion checklist and rewrites the weak sections.
+- **[LinkedIn Company Page Optimizer](claude-skills/linkedin-company-page-optimizer/SKILL.md)** - audits a Company Page for positioning, completeness, trust, discoverability, and conversion.
+- **[LinkedIn About Section Writer](claude-skills/linkedin-about-section-writer/SKILL.md)** - writes a buyer-relevant, proof-backed About section in the founder's voice.
+- **[LinkedIn Content Repurposing Engine](claude-skills/linkedin-content-repurposing-engine/SKILL.md)** - turns articles, transcripts, webinars, and customer conversations into distinct LinkedIn assets while preserving source fidelity.
+- **[LinkedIn Connection Request Writer](claude-skills/linkedin-connection-request-writer/SKILL.md)** - writes concise connection notes for 200-character and 300-character interfaces and recommends no note when context is weak.
+- **[LinkedIn Comment to DM Bridge](claude-skills/linkedin-comment-to-dm-bridge/SKILL.md)** - decides when a public interaction should move to DMs and writes the transition without manufacturing buying intent.
+- **[LinkedIn Case Study Builder](claude-skills/linkedin-case-study-builder/SKILL.md)** - turns verified client evidence into case study posts, proof snippets, and Featured section assets without inventing results.
 
-_More on the way: positioning and outreach templates, and the content-to-pipeline framework._
+The complete guided versions, FAQs, internal tools, and related resources live in the [PromiseClick Playbooks library](https://www.promiseclick.com/resources/playbooks).
 
 ## How to use
 
