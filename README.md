@@ -6,16 +6,16 @@ Maintained by [PromiseClick](https://www.promiseclick.com). Browse the full libr
 
 ## What's inside
 
-### Prompt packs
+### [Prompt packs](prompts/README.md)
 - **[Founder Hooks Prompt Pack](prompts/founder-hooks.md)** - a master AI prompt plus 12 proven hook formulas (each with an example) to write LinkedIn posts that stop the scroll.
 
-### Templates
+### [Templates](templates/README.md)
 - **[LinkedIn Post Templates (Swipe File)](templates/linkedin-post-templates.md)** - 24 proven post structures, each a fill-in-the-blank skeleton with an example. Copy, swap in your specifics, post.
 
-### References
+### [References](references/README.md)
 - **[LinkedIn Character Limits and Formatter](references/linkedin-character-limits.md)** - current post, article, connection-note, and InMail limits with source links, verification notes, and a practical formatting workflow.
 
-### Claude skills
+### [Claude skills](claude-skills/README.md)
 
 Installable skills that teach Claude to do one job well, every time. Add a folder to Claude and it activates when you need it.
 
@@ -36,9 +36,25 @@ The complete guided versions, FAQs, internal tools, and related resources live i
 
 ## How to use
 
-1. Open the pack you want, for example [prompts/founder-hooks.md](prompts/founder-hooks.md).
-2. Copy the master prompt into ChatGPT or Claude, fill in the bracketed inputs, and run it.
-3. Or use the fill-in formulas directly. Each one comes with an example.
+Choose the resource type that matches your workflow:
+
+- **Claude Skill:** Install the complete skill folder under `~/.claude/skills/` for personal use or `.claude/skills/` for one project. See the [Claude Skills guide](claude-skills/README.md).
+- **Prompt pack:** Copy the master prompt, replace the bracketed inputs, and run it in your preferred assistant. See the [Prompt Packs guide](prompts/README.md).
+- **Template:** Choose a structure, replace every placeholder, and edit it in your voice. See the [Templates guide](templates/README.md).
+- **Reference:** Check the source and last-verified date, then confirm time-sensitive values in the live platform. See the [References guide](references/README.md).
+
+## Repository map
+
+```text
+linkedin-pipeline-playbooks/
+|-- claude-skills/   Installable skills and their usage guide
+|-- prompts/         Standalone prompt packs
+|-- templates/       Copy-and-adapt structures
+|-- references/      Source-linked working references
+|-- CONTRIBUTING.md  Quality and contribution standards
+|-- LICENSE          CC BY 4.0 terms
+`-- README.md        Repository overview
+```
 
 ## Who it's for
 
@@ -49,6 +65,10 @@ B2B and SaaS founders and GTM teams who use LinkedIn to generate pipeline and wa
 Released under [Creative Commons Attribution 4.0 (CC BY 4.0)](LICENSE). You are free to use, adapt, and share these resources, including commercially, as long as you credit PromiseClick with a link back to [promiseclick.com](https://www.promiseclick.com).
 
 LinkedIn Pipeline Playbooks (c) 2026 PromiseClick.
+
+## Contributing
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md) before proposing a new skill or resource. New contributions must be distinct, source-aware, tested on realistic requests, and safe to use with real customer data.
 
 ## About PromiseClick
 
