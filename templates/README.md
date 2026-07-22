@@ -4,6 +4,12 @@ Practical structures you can copy, fill, and adapt without installing anything.
 
 ## Available templates
 
+### [B2B LinkedIn Agency Evaluation Scorecard](linkedin-agency-evaluation-scorecard.md)
+
+A provider-neutral 100-point scorecard with a red-flag gate, structured interview questions, reference checks, and a final decision memo.
+
+Use the [CSV worksheet](linkedin-agency-evaluation-scorecard.csv) for side-by-side scoring, then keep the Markdown file as the evidence and decision record.
+
 ### [LinkedIn Post Templates](linkedin-post-templates.md)
 
 A swipe file of 24 post structures for founder-led LinkedIn content.

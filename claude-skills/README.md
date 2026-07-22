@@ -42,6 +42,7 @@ Give Claude access to the repository, point it to the selected `SKILL.md`, and a
 | [LinkedIn Content Engine](linkedin-content-engine/SKILL.md) | Turning a new idea into a founder-led post | `Turn this idea into a LinkedIn post for my ICP in my voice.` |
 | [LinkedIn Content Repurposing Engine](linkedin-content-repurposing-engine/SKILL.md) | Extracting distinct assets from an existing source | `Repurpose this transcript into a source-traceable LinkedIn content package.` |
 | [LinkedIn DM Writer](linkedin-dm-writer/SKILL.md) | Writing warm DMs and follow-ups after contact | `Write the next DM in this conversation without pitching too early.` |
+| [LinkedIn Featured Section Builder](linkedin-featured-section-builder/SKILL.md) | Turning proof and resources into a focused Featured sequence | `Audit these assets and build my first three LinkedIn Featured items.` |
 | [LinkedIn ICP Finder](linkedin-icp-finder/SKILL.md) | Defining an ICP and practical search filters | `Turn this offer and customer evidence into a focused LinkedIn ICP.` |
 | [LinkedIn Lead Scorer](linkedin-lead-scorer/SKILL.md) | Ranking prospects against a defined ICP | `Score these prospects against my ICP and explain every disqualifier.` |
 | [LinkedIn Positioning Coach](linkedin-positioning-coach/SKILL.md) | Clarifying and pressure-testing positioning | `Build and pressure-test my positioning from these customer notes.` |
@@ -51,6 +52,7 @@ Give Claude access to the repository, point it to the selected `SKILL.md`, and a
 
 - Use the **Profile Optimizer** for the full personal profile and the **About Section Writer** for a deeper About-section draft.
 - Use the **Content Engine** when starting from an idea and the **Content Repurposing Engine** when starting from an existing source.
+- Use the **Featured Section Builder** to choose and order proof assets, and the **Case Study Builder** when the proof asset still needs to be created.
 - Use the **Connection Request Writer** before connection, the **Comment to DM Bridge** for a public-to-private transition, and the **DM Writer** after a real private conversation begins.
 - Use the **ICP Finder** to define fit and the **Lead Scorer** to evaluate actual prospects against that fit.
 

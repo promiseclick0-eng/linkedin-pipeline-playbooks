@@ -11,6 +11,10 @@ Maintained by [PromiseClick](https://www.promiseclick.com). Browse the full libr
 
 ### [Templates](templates/README.md)
 - **[LinkedIn Post Templates (Swipe File)](templates/linkedin-post-templates.md)** - 24 proven post structures, each a fill-in-the-blank skeleton with an example. Copy, swap in your specifics, post.
+- **[B2B LinkedIn Agency Evaluation Scorecard](templates/linkedin-agency-evaluation-scorecard.md)** - a provider-neutral 100-point model, red-flag gate, evidence questions, reference checks, and decision memo.
+
+### [Frameworks](frameworks/README.md)
+- **[Clay-to-LinkedIn Prospecting Workflow](frameworks/clay-to-linkedin-prospecting-workflow.md)** - an account-first system for conditional enrichment, explainable scoring, LinkedIn signals, and warm action routing without cold email.
 
 ### [References](references/README.md)
 - **[LinkedIn Character Limits and Formatter](references/linkedin-character-limits.md)** - current post, article, connection-note, and InMail limits with source links, verification notes, and a practical formatting workflow.
@@ -31,6 +35,7 @@ Installable skills that teach Claude to do one job well, every time. Add a folde
 - **[LinkedIn Connection Request Writer](claude-skills/linkedin-connection-request-writer/SKILL.md)** - writes concise connection notes for 200-character and 300-character interfaces and recommends no note when context is weak.
 - **[LinkedIn Comment to DM Bridge](claude-skills/linkedin-comment-to-dm-bridge/SKILL.md)** - decides when a public interaction should move to DMs and writes the transition without manufacturing buying intent.
 - **[LinkedIn Case Study Builder](claude-skills/linkedin-case-study-builder/SKILL.md)** - turns verified client evidence into case study posts, proof snippets, and Featured section assets without inventing results.
+- **[LinkedIn Featured Section Builder](claude-skills/linkedin-featured-section-builder/SKILL.md)** - turns supplied proof and resources into a focused three-item Featured sequence with ready-to-paste display copy.
 
 The complete guided versions, FAQs, internal tools, and related resources live in the [PromiseClick Playbooks library](https://www.promiseclick.com/resources/playbooks).
 
@@ -41,6 +46,7 @@ Choose the resource type that matches your workflow:
 - **Claude Skill:** Install the complete skill folder under `~/.claude/skills/` for personal use or `.claude/skills/` for one project. See the [Claude Skills guide](claude-skills/README.md).
 - **Prompt pack:** Copy the master prompt, replace the bracketed inputs, and run it in your preferred assistant. See the [Prompt Packs guide](prompts/README.md).
 - **Template:** Choose a structure, replace every placeholder, and edit it in your voice. See the [Templates guide](templates/README.md).
+- **Framework:** Follow the decision gates in order, adapt the tools to your stack, and preserve the evidence behind each action. See the [Frameworks guide](frameworks/README.md).
 - **Reference:** Check the source and last-verified date, then confirm time-sensitive values in the live platform. See the [References guide](references/README.md).
 
 ## Repository map
@@ -50,6 +56,7 @@ linkedin-pipeline-playbooks/
 |-- claude-skills/   Installable skills and their usage guide
 |-- prompts/         Standalone prompt packs
 |-- templates/       Copy-and-adapt structures
+|-- frameworks/      Multi-stage operating systems
 |-- references/      Source-linked working references
 |-- CONTRIBUTING.md  Quality and contribution standards
 |-- LICENSE          CC BY 4.0 terms
